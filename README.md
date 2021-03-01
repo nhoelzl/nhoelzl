@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Austria</h3>
+<h3 align="center">A passionate Data Scientist from Austria</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhoelzl&rank=S,AAA,A,B&theme=dracula&margin-w=15" alt="nhoelzl" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhoelzl&rank=S,AAA,A,B&theme=dracula&margin-w=15" alt="nhoelzl" /></a> </p>
 
 - 🔭 I’m currently working on [AI Project Boilerplate](https://github.com/nhoelzl/AI-Project-Boilerplate)
 
