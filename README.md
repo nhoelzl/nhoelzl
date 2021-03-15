@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available here
 
-- 📝 I regularly write articles on [blog.nicolehoelzl.com](blog.nicolehoelzl.com)
+- 📝 I regularly write articles on [blog.nicolehoelzl.com](https://blog.nicolehoelzl.com)
 
 - 💬 Ask me about **ML, DL, Python, MLOps, Database systems, Ethics in AI**
 
