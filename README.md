@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicole</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhoelzl&rank=S,AAA,A,B&theme=dracula&margin-w=15" alt="nhoelzl" /></a> </p>
+<!--<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nhoelzl&margin-w=10" alt="nhoelzl"/></a></p>-->
 
 - 🔭 I’m currently working on my Master Thesis
 
