@@ -5,11 +5,6 @@
 
 - 🔭 My latest project I'm working on is my *Master Thesis*
 
-- 🌱 I’m currently studying **Machine Learning by Stanford University** from Coursera
-
-- 📚 I’m reading **The Elements of Statistical Learning** by T. Hastie, R. Tibshirani, J. Friedman
-
-- 📫 How to reach me - [nicolehoelzl.com](https://nicolehoelzl.com)
 
 
 
